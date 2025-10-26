@@ -1,0 +1,3 @@
+[submodule "dumb-climate-model"]
+	path = dumb-climate-model
+	url = https://github.com/Beparnas/dumb-climate-model
