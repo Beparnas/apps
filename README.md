@@ -1,4 +1,5 @@
-# Benja Apps! <picture>
+# Benja Apps! 
+<picture>
   <!-- Prefer modern formats first -->
   <source srcset="https://benja.blog/content/images/2025/10/logo-simplified_exp-1.svg" type="image/svg">
   <!-- Fallback to PNGs at different widths -->
@@ -16,6 +17,6 @@
 
 
 # Directory
-**[Dumb Climate Model](apps.benja.blog/dumb-climate-model):** a basic app that simulates temperature and GHG emissions for various hyopthetical scenarios.
+**[Dumb Climate Model](https://apps.benja.blog/dumb-climate-model):** a basic app that simulates temperature and GHG emissions for various hyopthetical scenarios.
 
 ©️ 2025 Ben Parnas
